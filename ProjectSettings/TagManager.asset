@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - enemyProjectile
+  - PowerUp
+  - ExtraLife
+  - Shield
+  - MotherShip
+  - playerProjectile
+  - Box
+  - tankBullet
+  - Ghost
+  - BulletDestroyer
+  - Player1
+  - HomeBase
+  - Player2
+  - EnemySide
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PlayerShips
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2326969997
+    locked: 0
+  - name: Middleground
+    uniqueID: 2290313237
+    locked: 0
+  - name: Foreground
+    uniqueID: 1857351741
+    locked: 0

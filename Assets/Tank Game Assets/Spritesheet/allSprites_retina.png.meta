@@ -1,0 +1,4173 @@
+fileFormatVersion: 2
+guid: 6834a9f108e0a3a4f8ae11c248a5b1bc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: allSprites_retina_0
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1001
+        width: 129
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed0bbc91561e7f40a729e2fcad59241
+      internalID: -1769472138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_1
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 330
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d61686b1c595a4e9290fa836058328
+      internalID: -990843552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb3c2bca1bff1d4dbc38d098a039803
+      internalID: -2015391002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1000
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5e0cf662afb3141b6bde2c14f08a4e
+      internalID: -746594127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_4
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1001
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49783d6180525a9449859778144f5337
+      internalID: 1977645225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1000
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4999949, y: 0.46163738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130006ea37dcfe545890db140d7e0612
+      internalID: -1582089401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1000
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb30fed091570a42b48dd997c47ffae
+      internalID: -1462677357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69c3f6211df02642b3ddcf801f50752
+      internalID: -934658491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03766dc7a4eaf864a83f30507a285448
+      internalID: -1828324417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 872
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1126e5c0f2b554f4d9f15698268dbacc
+      internalID: 727456393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 872
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26963a2f2136894db44c7f3f2a548d8
+      internalID: 1933509558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356e0db0a0fa9b049ac5bcf72cb9d908
+      internalID: 1054620978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_12
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe392e7cd0a0414180c394bf341ae01
+      internalID: 2029054252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418e0586d55d04e448aa950cc63ac985
+      internalID: -1501835935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6113d4c990367384dbaac1607525dafa
+      internalID: -820842167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201155b8aa1da574dae28c477ff6f28d
+      internalID: 22689998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ded898101452d488505140d117437d
+      internalID: -1222112065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bd2b1f08de96a4e921fc50ee19572b
+      internalID: 649139132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095b02b0f73583441ad827b5da880a82
+      internalID: -1496667913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b64cd79f094ef94b9a983b873624354
+      internalID: -1854963053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93f7e1e7c0e9704ba111ffe9a4852fe
+      internalID: 2013670622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd228e92e39c3594eb82f51132540056
+      internalID: -98575532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6c31752ddbd454ab4c178e628100f9
+      internalID: -517966688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f463b7658cbfe4b9fab52da7ed5ae4
+      internalID: 1351984526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608a2237bad00ff459f572a350e8f0f7
+      internalID: 780167457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741d979ba35cf89409e72a835fc56dbb
+      internalID: 1973374188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6c527b17fa1d9458b312cd1d435ea4
+      internalID: 573012060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad265cbedf8ec44abbaaaf3bb459634
+      internalID: 455013668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c9e27e07d69b7449987d0e90c7ec08
+      internalID: 2049379307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec79bcaedf53921478f21c7a28c851af
+      internalID: 1205617130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559f78b91273d5d4e93b4ca86a5b0431
+      internalID: 2061796464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049fcb8c7edb55240abe46833ce759a9
+      internalID: 1912142812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cbf75909cbb6545b975cf32558efde
+      internalID: -1468309946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc0e9065658bf84386f0aa0cf0a6834
+      internalID: -486010975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 232
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdc4c4b024434f47a06380c9c63c38c
+      internalID: -1633633163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 232
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e9be085bc806948b4769d6996b0360
+      internalID: -758230352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 232
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77698742a3e39bf458fc4a50379e26be
+      internalID: 1640790251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 232
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caf316464e21144d8fe224600b1fd10
+      internalID: 398554910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8c9802ac2cc844d9d1e6f1d7212395
+      internalID: -1946778081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92abe8b51a3a8f343a5aa477304dbd2b
+      internalID: -610973224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea0563cd0787ff41af355bc3f045762
+      internalID: -1841737374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e33d2605b1c1f48aa6a82a12771113
+      internalID: 846101983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a74c6543f048c2458346d28bd9f8769
+      internalID: 1228035444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5487e2d3ea2fad4c946f5c2e4f1fdf5
+      internalID: -257112482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_44
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6113e2e7c011acd44aae4c189de5df9d
+      internalID: -1268930257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_45
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 0
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673692c116d45cf498d4a65f5fd0b464
+      internalID: -1504339289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_46
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c4199d129171c44be2b21b63ca0d41
+      internalID: -858032279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_47
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef9e246a3921b248af04900caf6413b
+      internalID: 2061688871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_48
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 84
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde861557b4cd2b45bb823efe8304623
+      internalID: 353592611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_49
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 84
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0928403391e514d8da98927344f5aa
+      internalID: 1025887775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_50
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 84
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a984a769ae46e4c9dfc1502e4ddd32
+      internalID: 746444642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_51
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 52
+        width: 104
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7757660d5eb861a4783204caf26d53ab
+      internalID: 314598258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_52
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 20
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d4a1490f8c6614a9791eac3aac4d10
+      internalID: -1116394104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_53
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 24
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab0b96541dc17044bdb7cd6b94f5290
+      internalID: -2108799519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_54
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 4
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6343532c2b36d4dbd616a2035e8cea
+      internalID: -785884037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_55
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 0
+        width: 100
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f73cb88d0a83f4cb8f0ffd03984286
+      internalID: -1990754983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_56
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 84
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf8d1251ac870b4da326a49d3c9fa11
+      internalID: -840847320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_57
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 29
+        width: 84
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a10673a11ef6a4692abb48c61e97b7
+      internalID: -169082891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_58
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cce3817f4049b4b86f5109143d2a3d
+      internalID: 1636592084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_59
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b2b1efce3636d4c940eff204139dd5
+      internalID: 1228132519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_60
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003eb179b71e21d40b730b811ad4f953
+      internalID: 772570082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_61
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25481249baa790e4a8330a57646b5280
+      internalID: -802295523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_62
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d813940ba67d54191c9c0ecec3089d
+      internalID: 793307265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_63
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 21
+        width: 84
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fd1133600e6ca479e740aadb5b40cb
+      internalID: -34682265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_64
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b265d1c1e34d7d64fac25d0ae313e85c
+      internalID: 341461492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_65
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 16
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde43520469fd2b4bbe2466483b6abb5
+      internalID: 1232753544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_66
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 0
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976a52e3fae414849bddd70caa0f8903
+      internalID: -1604258091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_67
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 4
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca25408c5ca0f28458878f452a4d176d
+      internalID: -411459070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_68
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 4
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ec46698529ec440b0ae453825f3ed3
+      internalID: -228241753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_69
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 0
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba02b2e2c29b344e9f4cf5503b9cdfc
+      internalID: 474977157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_70
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 27
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84bdc031bcd33e429724a3cd8d77605
+      internalID: -1574590900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_71
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 7
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51e53abe6d00db47aa77f29dc94a160
+      internalID: 1626052628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_72
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 31
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6150f2e6bc0ce544e92a5a13edd7d5c7
+      internalID: -26532387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_73
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 3
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948fea250daafb54fb762ec20fc48954
+      internalID: -1244392714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_74
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 24
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b82150bf9b62646949fe40ce8d48cd
+      internalID: 1222750465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_75
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f652c8b092a4144394c6eeae50a794f
+      internalID: -2064330012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_76
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 59
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263878f249cef144abcaeff51ece7f58
+      internalID: 1861988573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_77
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 59
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a7636c095b57a4f9cb258eadf25732
+      internalID: 829878937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_78
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 80
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f68ed1d2db2bc47bde3e27597a3963
+      internalID: 1184984033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_79
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 96
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd1ed8e70a03ed42b1ef9676e654b8c
+      internalID: 1007650637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_80
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 84
+        width: 120
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e7507a2b4275144b29db9b65efe6cd
+      internalID: 1824677363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_81
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 76
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deaf411f873d84e4a805123db2432e10
+      internalID: -1830499232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_82
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 96
+        width: 85
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02eae6dce134765418cd3dba64a11044
+      internalID: 663212093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_83
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 119
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a4e27b26d3fa0499434fdded3d06c5
+      internalID: -153061086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_84
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 119
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e781ecacc1e4e2b48968ea52fb654657
+      internalID: 1998100765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_85
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 143
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff048f824eb8f448bb56d371837d8f2
+      internalID: -1132045844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_86
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 136
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01f6ec9f2908584c9190454b204bb1e
+      internalID: -1156555996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_87
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 171
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69e0db256ef6d44c8c724b0d9a0d6d4
+      internalID: -95371129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_88
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 171
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef6c91141a16a1438f50b55074f7691
+      internalID: -1846637855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_89
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 203
+        width: 120
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f506b4f5b876b4f9a9b67aeced89b2
+      internalID: -1737389348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_90
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 188
+        width: 116
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7d3ed15fd95da469bbccaf6acdd1a6
+      internalID: -151989345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_91
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 191
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14008604aa63ad84297b0c400865e7c6
+      internalID: 2066150165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_92
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 192
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b94a2e1cd4d67438062be1251b2684
+      internalID: -922118126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_93
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 211
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fc14cc4b185034488d27eae626f0f6
+      internalID: -712453029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_94
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 231
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b583fcadbc377334ab678d9f7e661b37
+      internalID: -1983056511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_95
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 231
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1311277299c058b40922f569524026ff
+      internalID: -1048530543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_96
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 264
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ade3960f8cfd7f4cb0981ad71422ca5
+      internalID: 696906832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_97
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 275
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0716701329e5bed43bfc60e054ce9738
+      internalID: -430037840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_98
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 271
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dda945b88877a9498cc8d3bf1202038
+      internalID: -256974017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_99
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 291
+        width: 28
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0b90c068abe634ca2d4daeb5d607e6
+      internalID: -1983516435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_100
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 318
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288bab5f55eca314ba5c3bdf375bd641
+      internalID: -1899002629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_101
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 319
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691da33a3b40563469c07abe3ee26e00
+      internalID: -1248659536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_102
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 319
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713a041065a26754ca6b279b4c807e9e
+      internalID: -1476826827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_103
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 347
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c089675df46030449ada472dca2aff8
+      internalID: -882710998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_104
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 363
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f5e5b790b9b4644b25a6036c488cdb
+      internalID: -733279026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_105
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 382
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8748936febd56b4dbf5679795691d8a
+      internalID: 2079346235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_106
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 391
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c9ec885e2d79b4c94937799f645fba
+      internalID: 1671967653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_107
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 344
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4faf491704c8d0408b35ff17752e51d
+      internalID: -1036136210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_108
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 332
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2702c6d150feddc4da5e98bcc468caa5
+      internalID: 2021289114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_109
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 344
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec828487b29f0b44aab2878a6dce180f
+      internalID: 1326329889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_110
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 324
+        width: 124
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e3c4ff694b8ff45a45fc167268b273
+      internalID: -102463394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_111
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 442
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bd9cb335f997b47b105a1f3d01391e
+      internalID: 1023626088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_112
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 442
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3e602fe72181c4b8e7a3c98e3d1cd2
+      internalID: 1857985176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_113
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 388
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65166b0a5991f524e9614bae2877f9a8
+      internalID: 1213187871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_114
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 424
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c26592cd89ac374d9012a252b2a9f40
+      internalID: 1473830209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_115
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 423
+        width: 33
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d5f84060756c946943007a26d1b670
+      internalID: -830946096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_116
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 479
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcd25d9854905b45b4c4a285b038ecf
+      internalID: 2076550801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_117
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 523
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f00e93253777aa4580a3f4e59e868d7
+      internalID: 1776292008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_118
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 515
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84099dd862b27774c91484a876b6a51a
+      internalID: -1734385723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_119
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 468
+        width: 124
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc73031e7503ac44d963e33feec39d18
+      internalID: -1812119663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_120
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 508
+        width: 114
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4669476a60c7f214aade14b04299c775
+      internalID: 1119271268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_121
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 474
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bf7c39e2a16284192f97fb1f9f15b2
+      internalID: -198882148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_122
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 474
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfd8fcfe4e74824b9dcf4737a003bcf
+      internalID: 672208626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_123
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 526
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29756ebe13f954b4abb3bdc74ae8f311
+      internalID: 83989829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_124
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 526
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad307b8090ae004428f6c5540e472b44
+      internalID: 1783424985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_125
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 582
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63beee186b854924a863e7fbabef22a4
+      internalID: 319936704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_126
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 562
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ad9bb1eac03f949a2423f6449d35bc
+      internalID: 185681357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_127
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 600
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f628f0768a4cd24c96db07980add74d
+      internalID: 1613587107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_128
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 586
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e663d2e30f158fe4ebac1c531f1db867
+      internalID: 1572619681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_129
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 586
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca61f68db0ef60440b709299dfe70bb4
+      internalID: 1910233666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_130
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 610
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddb698515054994c932f9f7e5fb668d
+      internalID: 485945800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_131
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 636
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a70b585a7e77648a9951e8165770fc
+      internalID: -468027184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_132
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 688
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f9e1760be8cba419ae893f290d47e4
+      internalID: 1687137851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_133
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 618
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098b144bc4ecb3b45800527ce5b509e0
+      internalID: -732421621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_134
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 638
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5d7236a5b2e0541a91a6d472000c6a
+      internalID: -646244664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_135
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 646
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a78a8dcf0d44740af74faff9c7e2ba
+      internalID: 747888461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_136
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 620
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be31118ce166ac49816f3223faacea0
+      internalID: -1881848622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_137
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 626
+        width: 103
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60eccd2aeeba3384d837654dd49758a7
+      internalID: -957843964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_138
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 635
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5336b395e875c4447ae6ad4a177eab05
+      internalID: -1791970571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_139
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 662
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a18e5c32da7a24393ce1ee5cbecb91
+      internalID: 846521881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_140
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 663
+        width: 85
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22d6b5d7ddff4e4dace5a73948430b8
+      internalID: 202811497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_141
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 694
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaa537be7f5ad3478628c6f07237e8d
+      internalID: 1433199894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_142
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 716
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e85c967db23e84a806e56967d30d60
+      internalID: -2054966593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_143
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 714
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fa4d4bbfaaa504e932fd4f8c3c54cb
+      internalID: 432592351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_144
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 706
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930d6391f956a1f42ae59739b56f3f3d
+      internalID: -1889004405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_145
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 706
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c1cd130ecb97e4eadc8860c71e4fa6
+      internalID: 128142500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_146
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 746
+        width: 127
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4654cc263b4f7942ad710152749e376
+      internalID: 1015021192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_147
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 760
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb632f9f125c5d4195e8ab2f92ce2d6
+      internalID: 960925381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_148
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 755
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6a3e825aca87d4b8f2ebcc09bb50a0
+      internalID: -439996615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_149
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 766
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928dee28a8769ea4080059785a317411
+      internalID: 1707749458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_150
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 766
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11a2ef415b6ade42b8d173f22ae8e49
+      internalID: 1770905997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_151
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 768
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f95ed17c94b110438fe3d8ae9fdfbda
+      internalID: -1032215641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_152
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 820
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54bab16b04c61c478f4b6a9f51cf6e4
+      internalID: -1019929911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_153
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 800
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41158177d4c277b4893c6b2a1dc797a4
+      internalID: -952214888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_154
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 852
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c5af486811cb443ae763058ac34ffb
+      internalID: -1504520101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_155
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 847
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae86117b5ed9e2e45b01ac237d69172a
+      internalID: 2141033793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_156
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 878
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37e3ff4b7724434a87cd3caf77a0156
+      internalID: 600498188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_157
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 898
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612332ed56378c141814c505b8ce9cd2
+      internalID: 471669933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_158
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 838
+        width: 82
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da58298e7bb9654d928d4a518110e00
+      internalID: -1347876476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_159
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 857
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d248d95fb613094992445986136731e
+      internalID: 832490193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_160
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 858
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84483ce86decff418724f949fdf58ae
+      internalID: 1218448011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_161
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 872
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0d65014a2698d438390280897c43c9
+      internalID: -2085860996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_162
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 888
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e94063b8f12e564392cb27e35192996
+      internalID: -1257424319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_163
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 924
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b05627d1b1a8e4dbed7b34aef453d9
+      internalID: -1025346718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_164
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 924
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd89364b32f5ecb41bf7d299bd194965
+      internalID: 1174063318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_165
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 918
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b163858f103f6964fbfb7e69b42ec121
+      internalID: 572222318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_166
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 942
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f958465f0d9e1fa4c8c454f0ede61f51
+      internalID: -171312079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_167
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 914
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d9641ebb46cab47be877fffc855a4b
+      internalID: 2045554812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_168
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 942
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08148f416f000144958bfc4c9771109
+      internalID: 1978675951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_169
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 942
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051758707e3fb6749a6493b2a508d4e7
+      internalID: 1302353504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_170
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 963
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a8a02667c21ed4db2a3b0969c20f55
+      internalID: 1464630723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_171
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 970
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6000edb32091327458363c4537f7c415
+      internalID: 1118570358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_172
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 970
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4189799c67b53ca46a90cc47adc1b0d3
+      internalID: 1475032230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_173
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 976
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493df058d90b1aa43879adf07a957d6d
+      internalID: 1793360937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_174
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1008
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b24a6493aef954d87511ca2570d036
+      internalID: -949243077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_175
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1031
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8952c5e333df5b45922b819d464a9b8
+      internalID: 1159932851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_176
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1036
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77511396e6a4a264385ae218ae590f06
+      internalID: -1355494448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_177
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1036
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919ff87b1667c2c48b5605d3a3a7d0d2
+      internalID: 897699270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_178
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1022
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16761d78b815c0498351173220a0e65
+      internalID: 2065128001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_179
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1032
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1583dfea5391b0e4a8bf973fff597373
+      internalID: -1460504603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_180
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1072
+        width: 20
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316d464b1444d7c46910d1fa279e5de8
+      internalID: -57577350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_181
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1068
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a28df365252f114bae5ef1f48036761
+      internalID: -987172634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allSprites_retina_182
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1072
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c28d447297e43644a9351c562e49551
+      internalID: -1335192901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      allSprites_retina_180: -57577350
+      allSprites_retina_95: -1048530543
+      allSprites_retina_2: -2015391002
+      allSprites_retina_36: 1640790251
+      allSprites_retina_163: -1025346718
+      allSprites_retina_30: 2061796464
+      allSprites_retina_103: -882710998
+      allSprites_retina_58: 1636592084
+      allSprites_retina_63: -34682265
+      allSprites_retina_98: -256974017
+      allSprites_retina_19: -1854963053
+      allSprites_retina_128: 1572619681
+      allSprites_retina_65: 1232753544
+      allSprites_retina_141: 1433199894
+      allSprites_retina_43: -257112482
+      allSprites_retina_3: -746594127
+      allSprites_retina_40: -1841737374
+      allSprites_retina_76: 1861988573
+      allSprites_retina_137: -957843964
+      allSprites_retina_14: -820842167
+      allSprites_retina_22: -517966688
+      allSprites_retina_165: 572222318
+      allSprites_retina_1: -990843552
+      allSprites_retina_26: 573012060
+      allSprites_retina_54: -785884037
+      allSprites_retina_108: 2021289114
+      allSprites_retina_120: 1119271268
+      allSprites_retina_114: 1473830209
+      allSprites_retina_145: 128142500
+      allSprites_retina_105: 2079346235
+      allSprites_retina_159: 832490193
+      allSprites_retina_55: -1990754983
+      allSprites_retina_135: 747888461
+      allSprites_retina_77: 829878937
+      allSprites_retina_168: 1978675951
+      allSprites_retina_10: 1933509558
+      allSprites_retina_42: 1228035444
+      allSprites_retina_182: -1335192901
+      allSprites_retina_118: -1734385723
+      allSprites_retina_153: -952214888
+      allSprites_retina_111: 1023626088
+      allSprites_retina_5: -1582089401
+      allSprites_retina_142: -2054966593
+      allSprites_retina_94: -1983056511
+      allSprites_retina_151: -1032215641
+      allSprites_retina_132: 1687137851
+      allSprites_retina_81: -1830499232
+      allSprites_retina_85: -1132045844
+      allSprites_retina_146: 1015021192
+      allSprites_retina_70: -1574590900
+      allSprites_retina_17: 649139132
+      allSprites_retina_80: 1824677363
+      allSprites_retina_164: 1174063318
+      allSprites_retina_33: -486010975
+      allSprites_retina_13: -1501835935
+      allSprites_retina_179: -1460504603
+      allSprites_retina_18: -1496667913
+      allSprites_retina_126: 185681357
+      allSprites_retina_112: 1857985176
+      allSprites_retina_21: -98575532
+      allSprites_retina_122: 672208626
+      allSprites_retina_35: -758230352
+      allSprites_retina_175: 1159932851
+      allSprites_retina_79: 1007650637
+      allSprites_retina_139: 846521881
+      allSprites_retina_69: 474977157
+      allSprites_retina_113: 1213187871
+      allSprites_retina_71: 1626052628
+      allSprites_retina_25: 1973374188
+      allSprites_retina_9: 727456393
+      allSprites_retina_177: 897699270
+      allSprites_retina_78: 1184984033
+      allSprites_retina_82: 663212093
+      allSprites_retina_156: 600498188
+      allSprites_retina_160: 1218448011
+      allSprites_retina_91: 2066150165
+      allSprites_retina_92: -922118126
+      allSprites_retina_170: 1464630723
+      allSprites_retina_59: 1228132519
+      allSprites_retina_125: 319936704
+      allSprites_retina_84: 1998100765
+      allSprites_retina_143: 432592351
+      allSprites_retina_44: -1268930257
+      allSprites_retina_129: 1910233666
+      allSprites_retina_62: 793307265
+      allSprites_retina_57: -169082891
+      allSprites_retina_121: -198882148
+      allSprites_retina_161: -2085860996
+      allSprites_retina_162: -1257424319
+      allSprites_retina_150: 1770905997
+      allSprites_retina_73: -1244392714
+      allSprites_retina_167: 2045554812
+      allSprites_retina_88: -1846637855
+      allSprites_retina_8: -1828324417
+      allSprites_retina_45: -1504339289
+      allSprites_retina_86: -1156555996
+      allSprites_retina_124: 1783424985
+      allSprites_retina_4: 1977645225
+      allSprites_retina_90: -151989345
+      allSprites_retina_74: 1222750465
+      allSprites_retina_117: 1776292008
+      allSprites_retina_123: 83989829
+      allSprites_retina_38: -1946778081
+      allSprites_retina_133: -732421621
+      allSprites_retina_166: -171312079
+      allSprites_retina_130: 485945800
+      allSprites_retina_181: -987172634
+      allSprites_retina_99: -1983516435
+      allSprites_retina_48: 353592611
+      allSprites_retina_61: -802295523
+      allSprites_retina_52: -1116394104
+      allSprites_retina_37: 398554910
+      allSprites_retina_116: 2076550801
+      allSprites_retina_64: 341461492
+      allSprites_retina_46: -858032279
+      allSprites_retina_148: -439996615
+      allSprites_retina_157: 471669933
+      allSprites_retina_49: 1025887775
+      allSprites_retina_101: -1248659536
+      allSprites_retina_107: -1036136210
+      allSprites_retina_119: -1812119663
+      allSprites_retina_29: 1205617130
+      allSprites_retina_127: 1613587107
+      allSprites_retina_68: -228241753
+      allSprites_retina_104: -733279026
+      allSprites_retina_172: 1475032230
+      allSprites_retina_109: 1326329889
+      allSprites_retina_83: -153061086
+      allSprites_retina_27: 455013668
+      allSprites_retina_171: 1118570358
+      allSprites_retina_102: -1476826827
+      allSprites_retina_47: 2061688871
+      allSprites_retina_131: -468027184
+      allSprites_retina_23: 1351984526
+      allSprites_retina_89: -1737389348
+      allSprites_retina_110: -102463394
+      allSprites_retina_50: 746444642
+      allSprites_retina_87: -95371129
+      allSprites_retina_96: 696906832
+      allSprites_retina_152: -1019929911
+      allSprites_retina_32: -1468309946
+      allSprites_retina_11: 1054620978
+      allSprites_retina_39: -610973224
+      allSprites_retina_66: -1604258091
+      allSprites_retina_53: -2108799519
+      allSprites_retina_147: 960925381
+      allSprites_retina_178: 2065128001
+      allSprites_retina_15: 22689998
+      allSprites_retina_155: 2141033793
+      allSprites_retina_12: 2029054252
+      allSprites_retina_136: -1881848622
+      allSprites_retina_56: -840847320
+      allSprites_retina_144: -1889004405
+      allSprites_retina_93: -712453029
+      allSprites_retina_24: 780167457
+      allSprites_retina_20: 2013670622
+      allSprites_retina_134: -646244664
+      allSprites_retina_174: -949243077
+      allSprites_retina_176: -1355494448
+      allSprites_retina_7: -934658491
+      allSprites_retina_100: -1899002629
+      allSprites_retina_67: -411459070
+      allSprites_retina_149: 1707749458
+      allSprites_retina_173: 1793360937
+      allSprites_retina_158: -1347876476
+      allSprites_retina_115: -830946096
+      allSprites_retina_60: 772570082
+      allSprites_retina_138: -1791970571
+      allSprites_retina_31: 1912142812
+      allSprites_retina_0: -1769472138
+      allSprites_retina_34: -1633633163
+      allSprites_retina_154: -1504520101
+      allSprites_retina_6: -1462677357
+      allSprites_retina_106: 1671967653
+      allSprites_retina_169: 1302353504
+      allSprites_retina_41: 846101983
+      allSprites_retina_16: -1222112065
+      allSprites_retina_140: 202811497
+      allSprites_retina_75: -2064330012
+      allSprites_retina_97: -430037840
+      allSprites_retina_51: 314598258
+      allSprites_retina_72: -26532387
+      allSprites_retina_28: 2049379307
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
